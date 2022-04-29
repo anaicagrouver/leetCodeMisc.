@@ -1,1 +1,3 @@
-# reactPracticeProjects
+# leetCodeMisc.
+
+Miscellaneous LeetCode probelms 
